@@ -11,13 +11,12 @@
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
-<p>              /  \</p>
-<p> ^          /    \______</p>
-<p>| \________/    O       |></p>
-<p> \      ##|    | \______/</p>
-<p>  |    ####\__/   \</p>
-<p>  /  /  ##       \|</p>
-<p> /  /__________\  \</p>
-<p> L_88           \__88</p>
+<p>Also, have this ASCII art of an owl perched on a dick judging you.
+<p>Just for your enjoyment.
+<br>
+<p>--(0‾^‾0) -</p>
+<p>-(/‾‾-‾‾\)</p>
+<p>--x‾‾‾‾‾x</p>
+<p>8========D</p>
 </body>
 </html>
