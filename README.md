@@ -12,11 +12,11 @@
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
-<p>Also, have this penis bird free of charge.</p>
+<p>Also, have this ASCII art of a bird preched on a dick.</p>
 <p>Just for your enjoyment.</p>
-<p><0)</p>
-<p>(  \</p>
-<p> x</p>
-<p>8===D</p> 
+<p> <0)</p>
+<p> ( \)</p>
+<p>  x</p>
+<p>8=====D</p> 
 </body>
 </html>
