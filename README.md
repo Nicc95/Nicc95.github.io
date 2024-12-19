@@ -11,7 +11,7 @@
 <br>
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
-<p>
+<br>
 <p>                                    /;    ;\ </p>
 <p>                                __  \\____// </p>
 <p>                                /{_\_/   `'\____ </p>
