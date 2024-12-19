@@ -12,6 +12,8 @@
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
+<p>Also, have this penis bird free of charge.</p>
+<p>Just for your enjoyment.</p>
 <p><0)</p>
 <p>(  \</p>
 <p> x</p>
