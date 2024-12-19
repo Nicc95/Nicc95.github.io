@@ -13,9 +13,9 @@
 <br>
 <p>Also, have this ASCII art of an owl perched on a dick judging you.</p>
 <p>Just for your enjoyment.</p>
-<p>-  (00) -</p>
-<p>- (/‾‾\)</p>
-<p>-  x‾‾x</p>
+<p>- (00) -</p>
+<p>-(/‾‾\)</p>
+<p>- x‾‾x</p>
 <p>8========D</p> 
 </body>
 </html>
