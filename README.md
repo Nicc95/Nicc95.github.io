@@ -11,11 +11,11 @@
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
-<p>Also, have this ASCII art of a bird preched on a dick.</p>
+<p>Also, have this ASCII art of an owl perched on a dick judging you.</p>
 <p>Just for your enjoyment.</p>
-<p> <0)</p>
-<p> ( \)</p>
- <p> x</p>
-<p>8=====D</p> 
+<p>-  (00) -</p>
+<p>- (/  \)</p>
+<p>-  x  x</p>
+<p>8========D</p> 
 </body>
 </html>
