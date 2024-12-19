@@ -9,7 +9,6 @@
 <p>The next person who tries this on your system however, might have way more malicious things in plan.</p>
 <br>
 <br>
-<br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
 <p>Also, have this ASCII art of a bird preched on a dick.</p>
