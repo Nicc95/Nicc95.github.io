@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Gotcha fam</h1>
@@ -18,5 +17,7 @@
 <p>- - - (/‾‾--‾‾\)</p>
 <p>- - - -x‾‾‾‾‾x</p>
 <p>8==============D</p>
+
+
 </body>
 </html>
