@@ -7,6 +7,7 @@
 <p>This time, its just a prank.</p>
 <p>The next person who tries this on your system however, might have way more malicious things in plan.</p>
 <br>
+  <img>https://media1.tenor.com/m/iHAv4WoNo2kAAAAd/gotcha-bitch.gif</img>
 <br>
 <p>Best regards, your friendly neighbourhood IT person.</p>
 <br>
